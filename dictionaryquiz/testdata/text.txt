@@ -1,0 +1,2 @@
+Hello, how are you? Would be
+translated to Hola, ¿Cómo estás?
