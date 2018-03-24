@@ -1,4 +1,4 @@
-package main
+package largestproduct
 
 // LargestProduct returns the index of the two positive integers in a list whose product is the largest.
 //
